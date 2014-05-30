@@ -2,9 +2,9 @@ CVC-07: Virtual-World Dataset
 ================================
 
 ## Summary
-- This dataset contains 2534 pedestrian images and 2000 background images. The pedestrian images have frontal view and left view, which are annotated as 'M' and 'L'. The silhouettes of each pedestrian are also provided. You may flip the pedestrians to get right view examples.
+- This dataset contains 2534 pedestrian images and 2000 background images. The pedestrian images have frontal view and left view, which are annotated as 'M' and 'L'. You may flip the pedestrians to get right view examples.
 - An illustration of the dataset can be found [here](http://nbviewer.ipython.org/gist/Jiaolong/9959174)
-- For previous version of virtual-world dataset and other datasets of ADAS group, please visit [our websiet](http://www.cvc.uab.es/adas/site/?q=node/7) 
+- For downloading the data, please visit [our websiet](http://www.cvc.uab.es/adas/site/?q=node/7). Previous version of virtual-world dataset and other datasets of ADAS group can be also found there.  
 - Please consider citing our paper if you use virtual-world dataset in your research:
     
       @article{xu:2014,
